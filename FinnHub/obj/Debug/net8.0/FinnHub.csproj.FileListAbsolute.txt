@@ -1,0 +1,14 @@
+C:\Learning\sample\FinnHub\FinnHub\bin\Debug\net8.0\FinnHub.exe
+C:\Learning\sample\FinnHub\FinnHub\bin\Debug\net8.0\FinnHub.deps.json
+C:\Learning\sample\FinnHub\FinnHub\bin\Debug\net8.0\FinnHub.runtimeconfig.json
+C:\Learning\sample\FinnHub\FinnHub\bin\Debug\net8.0\FinnHub.dll
+C:\Learning\sample\FinnHub\FinnHub\bin\Debug\net8.0\FinnHub.pdb
+C:\Learning\sample\FinnHub\FinnHub\obj\Debug\net8.0\FinnHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\sample\FinnHub\FinnHub\obj\Debug\net8.0\FinnHub.AssemblyInfoInputs.cache
+C:\Learning\sample\FinnHub\FinnHub\obj\Debug\net8.0\FinnHub.AssemblyInfo.cs
+C:\Learning\sample\FinnHub\FinnHub\obj\Debug\net8.0\FinnHub.csproj.CoreCompileInputs.cache
+C:\Learning\sample\FinnHub\FinnHub\obj\Debug\net8.0\FinnHub.dll
+C:\Learning\sample\FinnHub\FinnHub\obj\Debug\net8.0\refint\FinnHub.dll
+C:\Learning\sample\FinnHub\FinnHub\obj\Debug\net8.0\FinnHub.pdb
+C:\Learning\sample\FinnHub\FinnHub\obj\Debug\net8.0\FinnHub.genruntimeconfig.cache
+C:\Learning\sample\FinnHub\FinnHub\obj\Debug\net8.0\ref\FinnHub.dll
